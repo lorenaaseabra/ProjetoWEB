@@ -1,0 +1,29 @@
+main{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 10%;
+    line-height: 32px;
+    font-size: x-large;
+}
+
+footer{
+    font-size: small;
+}
+
+button{
+    background-color: #738371
+}
+
+a{
+    color:#8f7573;
+}
+
+a:hover{
+    transform:scale(1.1);
+    opacity:0.5;
+}
+
+button:hover{
+    transform:scale(1.1);
+    opacity:0.5;
+}

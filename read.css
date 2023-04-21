@@ -1,0 +1,23 @@
+table, tr, td{
+    border: 1px solid #8f7573;
+    border-radius: 1%;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 6px;
+}
+
+table{
+    width: 70px;
+}
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;;
+    text-align: center;
+}
+button{
+    background-color: #738371
+}
+button:hover{
+    transform:scale(1.1);
+    opacity:0.5;
+}

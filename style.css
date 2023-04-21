@@ -1,0 +1,68 @@
+body{
+    background-color: #dfb8a1;
+    text-align: center;
+}
+
+.formulario button{
+    background-color: #738371;
+    text-decoration-color: aliceblue;
+    align-content: center;
+
+}
+
+
+.formulario {
+    padding-top: 15%;
+    text-align: center;
+    border:#636d62;
+
+}
+
+button{
+  background-color: #738371
+}
+
+button:hover{
+  transform:scale(1.1);
+  opacity:0.5;
+}
+
+
+h1 {
+    display: block;
+    font-size: 3em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    color:#636d62;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.formulario p{
+    color:#636d62;
+}
+
+
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 400px;
+  padding: 15px;
+  margin: auto;
+}
